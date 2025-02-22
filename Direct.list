@@ -1,5 +1,9 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-
+#PT:
+DOMAIN-SUFFIX,byr.pt
+DOMAIN-SUFFIX,rousi.zip
+SRC-IP-CIDR,192.168.6.100/32
+SRC-IP-CIDR,192.168.6.101/32
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
@@ -586,4 +590,4 @@ DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 #PT站
-DOMAIN-SUFFIX,byr.pt
+
